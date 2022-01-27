@@ -1,0 +1,78 @@
+.headerImg {
+  max-height: 650px;
+  min-width: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  top: 0;
+  position: absolute;
+  z-index: 0;
+}
+
+.retangle3 {
+  position: absolute;
+  right: 0;
+  height: 53px;
+  width: 86px;
+  background-color: #ffffff;
+  margin-top: 30px;
+  border-radius: 26.5px;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icone1 {
+  margin-left: 8px;
+}
+
+.sobreHeader {
+  position: absolute;
+  width: 741px;
+  height: 537px;
+  margin-top: 384px;
+  background: #ffffff;
+  z-index: 1;
+  padding: 96px 156px 75px 62px;
+}
+
+.sobreHeader h1 {
+  height: 147px;
+  width: 521px;
+  border-radius: nullpx;
+}
+
+.sobreHeader p {
+  height: 96px;
+  width: 515px;
+  border-radius: nullpx;
+}
+
+.button {
+  width: 250px;
+  height: 65px;
+  background-color: var(--primaryColor);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 125%;
+  color: #FFFFFF;
+  border: none;
+}
+
+.explore img {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  padding-left: 60px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.button img {
+  margin-right: 8px;
+}

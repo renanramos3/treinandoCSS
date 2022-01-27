@@ -1,0 +1,66 @@
+:root {
+  --primaryColor: #f78065;
+  --blackColor1: #000000;
+  --blackColor2: #999;
+  --blackColor3: #3f3d56;
+  --whiteColor: #fff;
+}
+
+* {
+  margin: 0;
+}
+
+.primaryFont {
+  font-family: 'Merriweather', sans-serif;
+}
+
+.secondaryFont {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titleLarge {
+  font-size: 39px;
+  font-weight: 700;
+}
+
+.titleMedium {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.titleSmall {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.whiteColor {
+  color: var(--whiteColor);
+}
+
+.fontBlack {
+  color: var(--blackColor1);
+}
+
+.fontBlack2 {
+  color: var(--blackColor2);
+}
+
+.fontBlack3 {
+  color: var(--blackColor3);
+}
+
+.fontPrimary {
+  color: var(--primaryColor);
+}
+
+.textSmall {
+  font-size: 14px;
+}
+
+.textMedium {
+  font-size: 20px;
+}
+
+.textLarge {
+  font-size: 24px;
+}
