@@ -1,0 +1,62 @@
+:root {
+  --primaryColor: #f78065;
+  --blackColor: #000000;
+  --gray: #999;
+  --grayDarker: #3f3d56;
+  --whiteColor: #fff;
+}
+
+.primaryFont {
+  font-family: 'Merriweather', sans-serif;
+}
+
+.secondaryFont {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titleLarge {
+  font-size: 39px;
+  font-weight: 700;
+}
+
+.titleMedium {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.titleSmall {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.fontPrimary {
+  color: var(--primaryColor);
+}
+
+.whiteColor {
+  color: var(--whiteColor);
+}
+
+.fontBlack {
+  color: var(--blackColor);
+}
+
+.gray {
+  color: var(--blackColor2);
+}
+
+.grayDarker {
+  color: var(--blackColor3);
+}
+
+.textSmall {
+  font-size: 14px;
+}
+
+.textMedium {
+  font-size: 20px;
+}
+
+.textLarge {
+  font-size: 24px;
+}
